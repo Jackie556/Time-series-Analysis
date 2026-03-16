@@ -100,7 +100,6 @@ p_returns <- ggplot(returns_long, aes(x = Date, y = Return)) +
 
 print(p_returns)
 
-
 # =============================================================================
 #  2. PHASE 1 — UNIVARIATE PRE-ANALYSIS (stylized facts)
 # =============================================================================
